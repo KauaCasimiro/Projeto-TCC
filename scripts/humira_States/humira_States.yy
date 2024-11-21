@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"humira_States",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"humira_States",
+  "parent":{
+    "name":"Humira",
+    "path":"folders/Scripts/Humira.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
