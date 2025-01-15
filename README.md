@@ -38,7 +38,7 @@ O objetivo de **Humira** é explorar o mundo alienígena, coletar os 8 pedaços 
 
 3. **Acesse o código-fonte**:
    O código do jogo está disponível no **GitHub**.
-   - Visite o repositório: **[GitHub - Humira](https://github.com/KauaCasimiro/ProjetoTCC)**.
+   - Visite o repositório: **[GitHub - Humira](https://github.com/KauaCasimiro/Projeto-TCC)**.
 
 ---
 
@@ -56,6 +56,6 @@ Se você deseja contribuir para o desenvolvimento de **Humira**, fique à vontad
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](License) para mais detalhes.
 
 ---
