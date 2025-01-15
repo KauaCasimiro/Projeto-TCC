@@ -1,8 +1,8 @@
 # Humira
 
-**Humira** é um jogo de plataforma em pixel art desenvolvido para PC pelo **GameMaker(https://gamemaker.io/pt-BR)** como projeto de TCC da ETEC ABH no ano de 2024. Neste jogo, você explora um mundo alienígena enquanto a protagonista Humira embarca em uma missão para derrotar o vilão Samuel Keith, que capturou sua mãe.
+**Humira** é um jogo de plataforma em pixel art desenvolvido para PC pelo **[GameMaker](https://gamemaker.io/pt-BR)** como projeto de TCC da ETEC ABH no ano de 2024. Neste jogo, você explora um mundo alienígena enquanto a protagonista Humira embarca em uma missão para derrotar o vilão Samuel Keith, que capturou sua mãe.
 
-O jogo está disponível online pelo **GX.Games(https://gx.games/pt-br/games/cb8ud6/humira/)** e também é possível conferir o código-fonte no **GitHub**.
+O jogo está disponível online pelo **[GX.Games](https://gx.games/pt-br/games/cb8ud6/humira/)** e também é possível conferir o código-fonte no **GitHub**.
 
 ---
 
