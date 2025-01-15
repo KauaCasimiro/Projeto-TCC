@@ -31,7 +31,7 @@ O objetivo de **Humira** é explorar o mundo alienígena, coletar os 8 pedaços 
 ## Instalação
 
 1. **Baixe o jogo**:
-   - Vá até a aba **[Release](https://github.com/KauaCasimiro/Projeto-TCC/releases/tag/Vers%C3%A3o1.4)**.
+   - Vá até a aba **[Release](https://github.com/KauaCasimiro/Projeto-TCC/releases/tag/Vers%C3%A3o1.0.0.4)**.
    - Baixe o arquivo "Humira_Projetc.1.0.0.4.rar".
 
 2. **Executando o jogo**:
