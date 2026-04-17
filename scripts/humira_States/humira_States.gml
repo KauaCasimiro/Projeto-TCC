@@ -403,3 +403,13 @@ vspd += gravity; // Adiciona gravidade se necessário
 // Função de ataque deletada;
 
 // Função de wall jump deletada;
+
+function humira_States_Win(){
+	if(global.game_win == true){
+		hspd = 0;
+        vspd = 0;
+        key_left = false;  // Desativa o controle para a esquerda
+        key_right = false; // Desativa o controle para a direita
+	}
+	return;
+}

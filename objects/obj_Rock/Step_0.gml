@@ -1,0 +1,1 @@
+dano_Pedra();

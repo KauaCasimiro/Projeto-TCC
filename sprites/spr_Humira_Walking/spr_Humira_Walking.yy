@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_Humira_Walking",
   "bboxMode":0,
   "bbox_bottom":119,
@@ -12,12 +12,12 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e8b1a6b5-04ca-4cc1-b9f8-6eebbe507b66","name":"e8b1a6b5-04ca-4cc1-b9f8-6eebbe507b66","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"261c7692-dd9d-4b9f-9b53-aaa2f3ddc22c","name":"261c7692-dd9d-4b9f-9b53-aaa2f3ddc22c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"da82ad82-d7a5-4cf2-b08e-964304f5af66","name":"da82ad82-d7a5-4cf2-b08e-964304f5af66","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"5b30ad40-c680-4521-81e3-2bf9739e988e","name":"5b30ad40-c680-4521-81e3-2bf9739e988e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"11a48c58-299e-4bff-a447-467cbeae0cf1","name":"11a48c58-299e-4bff-a447-467cbeae0cf1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"45db517a-c06e-45c2-9dc8-11fde2f2d882","name":"45db517a-c06e-45c2-9dc8-11fde2f2d882","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e8b1a6b5-04ca-4cc1-b9f8-6eebbe507b66","name":"e8b1a6b5-04ca-4cc1-b9f8-6eebbe507b66","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"261c7692-dd9d-4b9f-9b53-aaa2f3ddc22c","name":"261c7692-dd9d-4b9f-9b53-aaa2f3ddc22c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"da82ad82-d7a5-4cf2-b08e-964304f5af66","name":"da82ad82-d7a5-4cf2-b08e-964304f5af66","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5b30ad40-c680-4521-81e3-2bf9739e988e","name":"5b30ad40-c680-4521-81e3-2bf9739e988e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"11a48c58-299e-4bff-a447-467cbeae0cf1","name":"11a48c58-299e-4bff-a447-467cbeae0cf1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"45db517a-c06e-45c2-9dc8-11fde2f2d882","name":"45db517a-c06e-45c2-9dc8-11fde2f2d882","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -37,7 +37,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_Humira_Walking",
     "autoRecord":true,
     "backdropHeight":768,
@@ -73,24 +73,12 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e8b1a6b5-04ca-4cc1-b9f8-6eebbe507b66","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"be5064c4-c0b6-45cf-850c-b6969ab97aca","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"261c7692-dd9d-4b9f-9b53-aaa2f3ddc22c","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"de470118-4d43-44c0-a7d9-b7ec2faf127d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"da82ad82-d7a5-4cf2-b08e-964304f5af66","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"67d5f4f5-f9ba-45d3-98fd-f7a3a3f83c01","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5b30ad40-c680-4521-81e3-2bf9739e988e","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"78b7077b-72b8-4b91-abab-f890f73939b2","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"11a48c58-299e-4bff-a447-467cbeae0cf1","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"99a2c4b0-8827-4ea5-9003-1f54a7c326fa","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"45db517a-c06e-45c2-9dc8-11fde2f2d882","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2345a2f4-08c8-4aad-9ffb-a19e9e63b9f5","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e8b1a6b5-04ca-4cc1-b9f8-6eebbe507b66","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"be5064c4-c0b6-45cf-850c-b6969ab97aca","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"261c7692-dd9d-4b9f-9b53-aaa2f3ddc22c","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"de470118-4d43-44c0-a7d9-b7ec2faf127d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"da82ad82-d7a5-4cf2-b08e-964304f5af66","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"67d5f4f5-f9ba-45d3-98fd-f7a3a3f83c01","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"5b30ad40-c680-4521-81e3-2bf9739e988e","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"78b7077b-72b8-4b91-abab-f890f73939b2","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"11a48c58-299e-4bff-a447-467cbeae0cf1","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"99a2c4b0-8827-4ea5-9003-1f54a7c326fa","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"45db517a-c06e-45c2-9dc8-11fde2f2d882","path":"sprites/spr_Humira_Walking/spr_Humira_Walking.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"2345a2f4-08c8-4aad-9ffb-a19e9e63b9f5","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
